@@ -17,3 +17,7 @@ URIParser = "30578b45-9adc-5946-b283-645ec420af67"
 
 [compat]
 LanguageServer = "3.2"
+Tokenize = "0.5"
+SymbolServer = "6.0"
+CSTParser = "3.1"
+JSONRPC = "1.3"
